@@ -1,4 +1,5 @@
 # probability
 Some problems I have come across that I think are fun.
 (Worked) solutions maybe ever.
-I will probably at least mark the ones I solved, at some future time. Layout also todo.
+Layout also todo.
+I didn't keep track where I found these, so, sorry if you care about that.
