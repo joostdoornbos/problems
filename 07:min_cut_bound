@@ -1,1 +1,1 @@
-Given a connected graph G with n vertices, a min-cut is a partition of the vertex set V(G) into (X,Y) such that the number of edges between X and Y, (E(G) \cap E(K_{X,Y})) is minimized. What is the largest number of distinct min cuts G can have?
+Given a connected graph G with n vertices, a min-cut is a partition of the vertex set V(G) into (X,Y) such that the number of edges between X and Y, #(E(G) \cap E(K_{X,Y})) is minimized. What is the largest number of distinct min cuts G can have?
