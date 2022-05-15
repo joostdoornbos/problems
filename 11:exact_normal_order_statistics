@@ -1,4 +1,4 @@
-Consider an iid sample (X_i) of size n from a normal distribution.
+Consider an iid sample (X_i) of size n from a standard normal distribution.
 If n=2, find E[X_(k)], V[X_(k)] and M_{X_(k)}(t) for k=1,2.
 If n=3, find E[X_(k)] and V[X_(k)] for k=1,2,3.
 For arbitrary n >= 1, and for arbitrary 1 <= k,m <= n, find Cov(X_(k), X_m).
