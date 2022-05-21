@@ -1,0 +1,1 @@
+You have an urn with $r$ red balls and $b$ blue balls in it. Once per step, you pick a ball at random. If it is red you discard the picked ball, but if it is blue you put it back and discard a new randomly selected ball. What is the probability the last ball discarded from the urn is red?
