@@ -1,4 +1,4 @@
-# probability
+# problems
 Some problems I have come across that I think are fun.
 (Worked) solutions maybe ever.
 Layout also todo.
