@@ -1,4 +1,4 @@
-Inspired by [this video][1], prove that the expected value of the maximum of $m$ $n$-sided dice equals
+Inspired by [this video][1], prove that the expected value of the maximum of $m$ independently thrown $n$-sided dice equals
 $n-\frac{1}{m+1}\sum\limits_{\ell=0}^{m}\binom{m+1}{\ell}B_\ell n^{1-\ell}=n\frac{m}{m+1}+\frac12+O_{n\to\infty}\left(\frac1n\right)=n+o_{m\to\infty}(1)$, where $B_\ell$
 is the $\ell$-th Bernoulli number.
 
