@@ -6,6 +6,6 @@ If we consider instead the maximum $N_n$ of $n$
 independently thrown
 $n$-sided dice, find the
 constant $\alpha>\frac12$ such that the limiting expected distance of the maximum roll to the maximum value
-$\lim\limits_{n\to\infty}E(n-N_n)=\alpha$.
+$\lim\limits_{n\to\infty}E\left(\left|n-N_n\right|\right)=\alpha$.
 
 [1]:https://www.youtube.com/watch?v=X_DdGRjtwAo
