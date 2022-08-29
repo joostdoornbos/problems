@@ -1,0 +1,1 @@
+Consider three random variables $X, Y$ and $Z$, and their correlations $\varrho_{XY}, \varrho_{XZ}$ and $\varrho_{YZ}$. Find applicable bounds on $\varrho_{XY}$ in terms of $\varrho_{XZ}$ and $\varrho_{YZ}$.
