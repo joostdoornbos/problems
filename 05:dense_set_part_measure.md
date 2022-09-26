@@ -1,2 +1,2 @@
-Construct a set $A$ in the real numbers such that for any interval $I$, $0\lt m(I \cap A)\lt m(I)$, where $m$ is Lebesgue measure.  
-Construct a set $A_t$ as above such that $m(I \cap A)=t \cdot m(I)$, for arbitrary $0\lt t\lt 1$.
+Construct a Lebesgue measurable set $A$ in the real numbers such that for any open interval $I$, $0\lt m(A \cap I)\lt m(I)$, where $m$ is Lebesgue measure.  
+Prove there cannot exist a Lebesgue measurable set $A$ of real numbers such that for any open interval $I$, $m(A\cap I) = \frac{m(I)}{2}$.
