@@ -1,1 +1,1 @@
-Two points are randomly placed in a circle of radius 1, then connected with a line segment. Another two points are placed randomly in the same circle and again connected with a line. What is the probability that the segments cross each other?
+Two points are randomly placed in a circle of radius 1, then connected with a line segment. Another two points are placed randomly in the same circle and again connected with a line segment. What is the probability that the two segments cross each other?
