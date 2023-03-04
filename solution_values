@@ -13,7 +13,9 @@
 13:(5-pi)/4
 14:2/pi, q_n = p_{n-1}/2
 15:1/(e-1)
-16:1-sqrt(1-4p(1-p))
+16:1-abs(1-2p)
 17:r_xy in [r_xz*r_yz -sqrt( (1-r_xz^2)*(1-r_yz^2) ), r_xz*r_yz +sqrt( (1-r_xz^2)*(1-r_yz^2) )], forced positive correlation when r_xz^2 + r_yz^2 > 1
 18:
 19:3/2
+20:
+21:sum_{i=0}^n (m choose i)
