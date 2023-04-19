@@ -1,2 +1,2 @@
-Consider $X_1, \dots, X_n\sim \text{Exp}(\lambda)$ iid. Prove that $\mathbb P \left(\lambda X_{(n-k;\\,n)}\leq y\right)\to e^{-e^{-y}} \sum\limits_{i=0}^k \frac{e^{-iy}}{i!}$.  
+Consider $X_1, \dots, X_n\sim \text{Exp}(\lambda)$ iid. Prove that $\mathbb P \left(\lambda X_{(n-k;\\,n)} - \log n\leq y\right)\to e^{-e^{-y}} \sum\limits_{i=0}^k \frac{e^{-iy}}{i!}$.  
 Also show that $\mathbb P \left(\lambda X_{(k;\\,n)} \leq \sum\limits_{i\geq1}\frac{1}{i}\left(\frac{y}{n}\right)^i\right)\to e^{-y}\sum\limits_{i\geq k}\frac{y^i}{i!}$, implying $\mathbb P \left(n\lambda X_{(k;\\,n)} \leq y + o(1)\right)\to e^{-y}\sum\limits_{i\geq k}\frac{y^i}{i!}$.
